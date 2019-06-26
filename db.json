@@ -1,19 +1,10 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "a"
-    },
-    {
-      "id": 3,
-      "title": "c"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+registration:[
+  {
+    id:1,
+    name:2
+  },
+  {
+    id:2,
+    name:3
   }
-}
+]
